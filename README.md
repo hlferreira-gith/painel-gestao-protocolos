@@ -69,4 +69,4 @@ Todos os dados utilizados foram **rigorosamente anonimizados**, em conformidade 
 ### 📎 Autor
 
 Hugo Ferreira  
-[LinkedIn](https://www.linkedin.com/) | hlf.hugo.ca@gmail.com
+[LinkedIn](https://www.linkedin.com/in/hugo-leonardo-ca) | hlf.hugo.ca@gmail.com

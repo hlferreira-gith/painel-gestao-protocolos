@@ -49,6 +49,11 @@ Antes da implementação do painel, a organização enfrentava:
 | **Qualitativo + Quantitativo** | Garante leitura ampla sobre tipo e volume de demandas |
 
 ---
+### 🖼️ Visual do Painel
+
+![Painel Simulado de Sazonalidade](painel_simulado_completo_sazonalidade.png)
+
+---
 
 ### 🛠️ Tecnologias Utilizadas
 
